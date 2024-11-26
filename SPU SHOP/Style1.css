@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.carousel-item{
+    height: 500px;
+}
+.carousel-image-1{
+    background: url(https://png.pngtree.com/png-clipart/20230122/big/pngtree-50-off-sale-tag-design-transparent-background-png-image_8926969.png);
+    background-size: cover;
+}
+.carousel-image-2{
+    background: url(https://watermark.lovepik.com/photo/20211126/large/lovepik-shoe-bag-shop-picture_501098961.jpg);
+    background-size: cover;
+}
+.carousel-image-3{
+    background: url(https://i0.wp.com/makamstories.com/wp-content/uploads/2021/10/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%9B%E0%B9%88%E0%B8%B2-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C%E0%B8%A7%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%88.jpg?resize=744,826&ssl=1);
+    background-size: cover;
+}
+.carousel-image-4{
+    background: url(https://static.vecteezy.com/system/resources/previews/009/291/152/original/hand-drawn-sneakers-illustration-vector.jpg);
+    background-size: cover;
+}
+.carousel-image-5{
+    background: url(https://live.staticflickr.com/7023/6532872017_30aa5bc02b_b.jpg);
+    background-size: cover;
+}
+.carousel-image-6{
+    background: url(https://th.bing.com/th/id/OIP.r9efdMk8UslKQ5Cp1fxmVQHaHa?w=626&h=626&rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+.carousel-image-7{
+    background: url(https://d10j3mvrs1suex.cloudfront.net/s:bzglfiles/u/683428/5de5bb0062fb359e0288491a33508c30776d4517/original/gc-warehouse-showroom.jpeg/!!/b:W1sicmVzaXplIiwxODAwXSxbIm1heCJdLFsid2UiXV0%3D/meta:eyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg);
+    background-size: cover;
+}
+.carousel-image-8{
+    background: url(https://i.pinimg.com/originals/c1/e8/2a/c1e82ab67673bf40351e230dec43d823.jpg);
+    background-size: cover;
+}
+.carousel-image-9{
+    background: url(https://www.hallyukstar.com/wp-content/uploads/2024/01/TOP100_GirlGroupsMembers_2024-01.webp);
+    background-size: cover;
+}
+img{
+    width: 80%;
+    height: 85%;
+}
+/* section.footer p{
+    font-size: 1rem;
+    text-align: center;
+    padding: 5 rem;
+    background-color: aqua;
+}  */
+a {
+    padding: 5px;
+}
+
+footer {
+    border: solid #333 1px;
+    margin: auto;
+    padding: 5rem;
+    background: url(https://marketplace.canva.com/EAFVgQ8m8cg/1/0/1600w/canva-%E0%B8%AA%E0%B8%B5%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87-%E0%B8%AA%E0%B8%B5%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99-%E0%B8%AA%E0%B8%B5%E0%B8%8A%E0%B8%A1%E0%B8%9E%E0%B8%B9-%E0%B8%AA%E0%B8%B5%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%87-%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%88%E0%B8%AD%E0%B8%84%E0%B8%AD%E0%B8%A1%E0%B8%9E%E0%B8%B4%E0%B8%A7%E0%B9%80%E0%B8%95%E0%B8%AD%E0%B8%A3%E0%B9%8C-%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%AD%E0%B8%9A-%E0%B8%9B%E0%B8%A5%E0%B8%B2%E0%B8%A7%E0%B8%B2%E0%B8%AC-%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5-CqBn578wibg.jpg)center;
+    text-align: center;
+    justify-content: center;
+}
+
+.font-footer {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.expan {
+    color: rgb(8, 2, 14);
+}
+.nav-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-list li{
+    list-style: none;
+    margin: 0 1rem;}
+.logo{
+        font-size: 3rem;
+        color: rgb(224, 108, 191);
+    }
+.logo-t{
+        font-size: 3rem;
+        color: rgb(233, 240, 236);
+    }
+ nav{
+        height: 7rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;}
+        li a{
+            color: rgb(231, 227, 231);
+            font-size: 1.5rem;
+            text-decoration: none;
+        }
